@@ -1,0 +1,11 @@
+default: true
+
+# https://xiangxing98.github.io/Markdownlint_Rules.html#md013---line-length
+line-length:
+  line_length: 120
+  code_block_line_length: 160
+  tables: false
+
+# https://xiangxing98.github.io/Markdownlint_Rules.html#md024---multiple-headings-with-the-same-content
+no-duplicate-heading:
+  siblings_only: true
