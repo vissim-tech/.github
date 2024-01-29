@@ -1,5 +1,13 @@
 default: true
 
+# https://xiangxing98.github.io/Markdownlint_Rules.html#md033---inline-html
+no-inline-html:
+  allowed_elements: ["h1", "img"]
+
+# https://xiangxing98.github.io/Markdownlint_Rules.html#md041---first-line-in-a-file-should-be-a-top-level-heading
+first-line-h1:
+  level: 1
+
 # https://xiangxing98.github.io/Markdownlint_Rules.html#md013---line-length
 line-length:
   line_length: 120
