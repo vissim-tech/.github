@@ -1,7 +1,3 @@
----
-title: not-used
----
+# Part of [Vissim](https://www.vissim.no/)
 
-![logo](./images/1.png)
-
-## Part of [Vissim](https://www.vissim.no/)
+![logo](./profile/images/1.png)
