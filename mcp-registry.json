@@ -4,7 +4,7 @@
     {
       "id": "sonarqube",
       "name": "SonarQube MCP Server",
-      "description": "Local SonarQube MCP server (Docker-based).",
+      "description": "Local SonarQube MCP server (Container-based).",
       "manifest": {
         "type": "stdio",
         "command": "podman",
